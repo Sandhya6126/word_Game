@@ -46,3 +46,4 @@ import random
 ...         print("You have", + turns, 'more guesses')
 ... 
 ...         if turns == 0:
+               print("you Loose")
